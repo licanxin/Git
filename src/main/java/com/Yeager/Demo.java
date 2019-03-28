@@ -5,6 +5,7 @@ public class Demo {
 	public static void main(String[] args) {
 		System.out.println("asdad");
 		System.out.println("IDEA");
+		System.out.println("asdasd");
 	}
 
 }
